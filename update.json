@@ -1,0 +1,27 @@
+{
+	"latest": 1,
+	"version": "1.15 Release",
+	"updateurl":"",
+	"patch_load": false,
+	"critical": false,
+	"changes": [
+		"Открытое бета-тестирование"
+	],
+	"servers": [
+		{ "address": "185.169.134.163:7777", "id": 501 },
+		{ "address": "185.169.134.60:8904", "id": 502 },
+		{ "address": "185.169.134.62:8904", "id": 503 },
+		{ "address": "185.169.134.108:7777", "id": 504 },
+		{ "address": "80.66.71.85:7777", "id": 505 }
+	],
+	"files": {
+		"gps": 1,
+		"gps_vc": 1,
+		"questions": 1,
+		"server_cmd": 1,
+		"admin_cmd": 1,
+		"vehicles": 1,
+		"skins": 1
+	},
+	"api_url": "https://api.13-GG.com/"
+}
