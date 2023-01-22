@@ -16,7 +16,6 @@
 	],
 	"files": {
 		"gps": 1,
-		"gps_vc": 1,
 		"questions": 1,
 		"server_cmd": 1,
 		"admin_cmd": 1,
