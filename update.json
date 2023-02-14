@@ -1,6 +1,6 @@
 {
 	"latest": 1,
-	"version": "1.15 Release",
+	"version": "1.0 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
