@@ -1,12 +1,11 @@
 {
-	"latest": 4,
-	"version": "1.0.3 Beta",
+	"latest": 5,
+	"version": "1.0.4 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
 	"changes": [
-		"Исправлены упоминания по уровню (Например: @1lvl)",
-		"Исправлено скрытие последних цифр в суммах (Например в /stats) из-за частичного скрытия IP"
+		"Исправлено отображение лидера центра лицензирования в чекере организаций"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
