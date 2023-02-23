@@ -1,11 +1,11 @@
 {
-	"latest": 5,
-	"version": "1.0.4 Beta",
+	"latest": 6,
+	"version": "1.0.5 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
 	"changes": [
-		"Исправлено отображение лидера центра лицензирования в чекере организаций"
+		"Исправлено отображение лидера центра лицензирования в чекере организаций а так же лидеров у которых нет номера телефона"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
