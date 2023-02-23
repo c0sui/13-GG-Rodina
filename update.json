@@ -1,12 +1,11 @@
 {
-	"latest": 7,
-	"version": "1.0.6 Beta",
+	"latest": 8,
+	"version": "1.0.7 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
-	"critical": false,
+	"critical": true,
 	"changes": [
-		"Ник в статистике рекона пишется и копируется на английском",
-		"Исправлена ошибка при нажатии на ник в статистике рекона"
+		"Вырезана ловля репорта"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
