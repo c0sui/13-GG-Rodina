@@ -1,11 +1,12 @@
 {
-	"latest": 3,
-	"version": "1.0.2 Beta",
+	"latest": 4,
+	"version": "1.0.3 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
 	"changes": [
-		"Исправлена выдача наказания по кнопке в анти-флуде"
+		"Исправлены упоминания по уровню (Например: @1lvl)",
+		"Исправлено скрытие последних цифр в суммах (Например в /stats) из-за частичного скрытия IP"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
