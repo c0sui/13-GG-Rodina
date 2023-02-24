@@ -1,11 +1,13 @@
 {
-	"latest": 11,
-	"version": "1.0.10 Beta",
+	"latest": 12,
+	"version": "1.0.11 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
 	"changes": [
-		"Исправления и улучшения"
+		"В список тегов для кастомной настройки строки в админ чекере добавлен {spec_nick}, позвляющий получить ник игрока за которым ведётся слежка",
+		"Исправлен баг с выдачей визуальных скинов через /admhelp",
+		"Прочие незначительные исправления"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
