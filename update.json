@@ -1,11 +1,11 @@
 {
-	"latest": 14,
-	"version": "1.0.13 Beta",
+	"latest": 16,
+	"version": "1.1.1 Beta",
 	"updateurl":"https://raw.githubusercontent.com/c0sui/13-GG-Rodina/main/13_GG.luac",
 	"patch_load": false,
 	"critical": false,
 	"changes": [
-		"Адаптация чекера организаций к новому /leaders"
+		"Незначительные исправления"
 	],
 	"servers": [
 		{ "address": "185.169.134.163:7777", "id": 501 },
